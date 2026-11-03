@@ -1,0 +1,9 @@
+{
+  "name": "clientflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ClientFlow client and project management portfolio application built on Hatchable",
+  "scripts": {
+    "check:files": "echo 'Hatchable deploy performs runtime validation; no local build step is required.'"
+  }
+}
