@@ -1,0 +1,19 @@
+[auth]
+enabled = true
+providers = ["email"]
+
+[db.tables.clients]
+read = "own"
+write = "own"
+
+[db.tables.projects]
+read = "own"
+write = "own"
+
+[db.tables.tasks]
+read = "own"
+write = "own"
+
+[db.tables.activity_logs]
+read = "own"
+write = "own"
